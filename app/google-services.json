@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "800704399735",
+    "firebase_url": "https://alcphase222.firebaseio.com",
+    "project_id": "alcphase222",
+    "storage_bucket": "alcphase222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800704399735:android:5c2451b10f3e8d78",
+        "android_client_info": {
+          "package_name": "com.e.alcphase222"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800704399735-2ksso12d64l62f0uuc3bgetvd3h42gng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.alcphase222",
+            "certificate_hash": "9c90ab70d9c7e43890a2635e6feb73327149b1b4"
+          }
+        },
+        {
+          "client_id": "800704399735-6jqrjnq3qrfjg1cugq5tei62mqjko3ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX_LEHnRSr0FlDbar5ki54YRC5Z-rerJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800704399735-6jqrjnq3qrfjg1cugq5tei62mqjko3ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
